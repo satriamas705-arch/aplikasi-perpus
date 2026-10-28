@@ -1,0 +1,6 @@
+{
+  "name": "PustakaDigital - Sistem Manajemen Perpustakaan",
+  "description": "Aplikasi perpustakaan digital terpadu dengan sirkulasi peminjaman, scanner barcode, pelaporan PDF, notifikasi jatuh tempo otomatis, dan manajemen denda.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
